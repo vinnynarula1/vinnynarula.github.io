@@ -107,7 +107,7 @@ section-1 {
 }
 
 .heading {
-    color: #333;
+    color: rgb(197, 75, 75);
     align-items: flex-start;
     font-size: large;
 }
