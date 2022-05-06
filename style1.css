@@ -32,7 +32,7 @@ html {
     text-shadow: 0.2rem 0.2rem 0.5rem #555;
 }
 
-body.about {
+body.index {
     background-image: url(Images/sg.png);
     background-size: cover;
     background-attachment: fixed;
